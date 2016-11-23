@@ -249,3 +249,13 @@ margin-right: 4px;
 {
   opacity: 0.5;
 }
+input
+{
+border-style: solid;
+}
+button
+{
+  border-style:black solid;
+  background-color: lightgreen;
+  
+}
