@@ -1,0 +1,251 @@
+html
+{
+  height: 1850px;
+  width:1920px;
+  background: url('img/bg.png') ;
+}
+body
+{
+  margin-left: 320px;
+  margin-right: 320px;
+  height: 1850px;
+  width:1280px;
+}
+.logo
+{
+  width:417px;
+  height:119px;
+  padding-left: 430px;
+  padding-top: 30px;
+  float:left;
+}
+.htext
+{
+  float:left;
+}
+.text1
+{
+  font-weight: bolder;
+  color:black;
+  border-bottom: 1px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: solid;
+  font-family:標楷體;
+  letter-spacing:3px;
+  margin-top: 30px;
+  margin-left: 227px;
+  margin-right: 18px;
+  text-decoration: none;
+}
+.text2
+{
+  font-weight: bolder;
+  color:black;
+  border-bottom: 1px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: solid;
+  text-decoration: none;
+  font-family:標楷體;
+  letter-spacing:3px;
+  margin-top: 30px;
+}
+.img1
+{
+  margin-left: 224px;
+  margin-top: 29px;
+  margin-right: 18px;
+}
+.img2
+{
+  margin-top: 29px;
+  margin-right: 18px;
+}
+.img3
+{
+  margin-top: 29px;
+}
+.clear
+{
+  clear:both;
+}
+#topmark li
+{
+  display: inline;
+  font-weight: bolder;
+  font-family:標楷體;
+  font-size: 28px;
+ margin-left: 40px;
+ float:left;
+}
+.inline
+{
+  display: inline;
+}
+#news
+{
+  margin-top: 39px;
+  margin-left: 42px;
+}
+#leftmark li
+{
+
+  list-style: none;
+  font-weight: bolder;
+  font-size: 26px;
+margin-right: 20px;
+border-bottom-style:solid;
+border-width: thin;
+  padding-top: 39px;
+}
+.li
+{
+  float:left;
+  margin-left: 43px;
+  margin-top: 56px;
+  width:197px;
+  height: 734px;
+  padding: 0px;
+
+  border-style: solid;
+}
+.hot
+{
+font-size: 30px;
+margin-top: 52px;
+margin-left: 71px;
+float:left;
+padding-right: 706px;
+font-weight: bolder;
+border-bottom-style:solid;
+border-width: 1px;
+}
+.size
+{
+  float:left;
+  font-size: 20px;
+  font-weight: bolder;
+  border-bottom-style:solid;
+  border-width: thin;
+  margin-top: 66px;
+}
+.cakea
+{
+  margin-top: 39px;
+  margin-left: 108px;
+  border-style: solid;
+  border-width: 5px;
+}
+.atext
+{
+  float:left;
+  margin-left: 156px;
+  font-size: 24px;
+  margin-top: 17px;
+  font-weight: bolder;
+}
+.cakeb
+{
+  margin-top: 39px;
+  margin-left: 108px;
+  border-style: solid;
+  border-width: 5px;
+}
+.btext
+{
+  float:left;
+  margin-left: 156px;
+  font-size: 24px;
+  margin-top: 17px;
+  font-weight: bolder;
+}
+input
+{
+margin-left: 85px;
+margin-top: 10px;
+}
+.more
+{
+  margin-top: 110px;
+  font-size: 20px;
+
+  margin-left: 1140px;
+}
+#footermark li
+{
+  padding-top: 42px;
+  font-weight: bolder;
+  padding-right: 63px;
+  font-size: 28px;
+  display: inline;
+  float: left;
+  padding-bottom: 16px;
+  border-bottom: 1px solid;
+
+}
+#footer
+{
+  margin-top: 80px;
+  margin-left: 42px;
+  margin-right: 43px;
+  padding: 0px;
+  border-top: 3px;
+  border-left: 3px;
+  border-right: 3px;
+  border-bottom: 0px;
+height: 377px;
+width: 1193px;
+border-style: solid;
+
+}
+.ftext
+{
+  margin-top: 40px;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-left: 63px;
+float: left;
+}
+#lia
+{
+  margin-left: 30px;
+}
+a:hover
+{
+  color:red;
+}
+a
+{
+  text-decoration: none;
+  color:black;
+}
+.hovera:hover
+{
+  width: 210px;
+  height: 210px;
+  margin-left: 88px;
+  margin-top: 19px;
+}
+.hoverb:hover
+{
+  width: 210px;
+  height: 210px;
+  margin-left: 98px;
+margin-right: 4px;
+  margin-top: 19px;
+}
+.hoverc:hover
+{
+  width: 210px;
+  height: 210px;
+  margin-left: 98px;
+margin-right: 4px;
+  margin-top: 19px;
+}
+.htext img:hover
+{
+  opacity: 0.5;
+}
